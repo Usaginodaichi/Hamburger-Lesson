@@ -27,6 +27,7 @@ h1{
   z-index: 10;
 }
 
+/*サイズ、位置調整*/
 .menu-trigger,
 .menu-trigger span{
   display: inline-block;
